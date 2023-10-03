@@ -22,8 +22,7 @@
     app.set("view engine", "handlebars")
 
     // EXPRESS CONFIG
-    app.use(express.static(__dirname+ "/public/css/mycss.css"));
-    app.use(express.static( "C:\Users\barri\OneDrive\Desktop\BACKEND-BARRILE\src\public\js"));
+    app.use(express.static(__dirname+ "/public"));
 
     app.use(express.urlencoded({ extended: true }));
     app.use(express.json())
