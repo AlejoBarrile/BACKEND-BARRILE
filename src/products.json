@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Jabón Dove",
+    "description": "Jabón de crema con ph neutro, sin aromatizantes ni colorantes",
+    "price": 300,
+    "thumbnail": "imagen",
+    "code": "P1",
+    "stock": 10,
+    "category": "bath"
+  }
+]
